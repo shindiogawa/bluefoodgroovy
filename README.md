@@ -7,7 +7,7 @@
 
 ✨ SpringBoot <br />
 ✨ Groovy <br />
-✨ JavaScript, HTML, CSS <br />
+✨ JavaScript, HTML, CSS, Thymeleaf <br />
 ✨ Spock Framework for Unit Test <br />
 
 ## Author
